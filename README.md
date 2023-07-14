@@ -13,10 +13,10 @@ The pip command is- 'pip install selenium'. I recommend you to visit the officia
 https://chromedriver.chromium.org/downloads
 You should first check your Chrome version.
 You can do that by following the steps here-
-  2.1) Launch Chrome.
-  2.2) Click on the 3 Vertical Dots Image of 3 vertical dots in the upper right corner of the browser.
-  2.3) Scroll down to and Hover over the Help option, then click on About Google Chrome in the new menu that opens.
-  2.4) A new window appears that provides information about the browser. The version is located below the browser name.
+  a) Launch Chrome.
+  b) Click on the 3 Vertical Dots Image of 3 vertical dots in the upper right corner of the browser.
+  c) Scroll down to and Hover over the Help option, then click on About Google Chrome in the new menu that opens.
+  d) A new window appears that provides information about the browser. The version is located below the browser name.
 
 #### NOTE: In line 71, the path of the output directory is set to my accordance. If you wish to use this code, you will have to change the first part of the path to the name of the directory you are storing this script. Eg- If you are naming your main directory as 'scraper' then the path should be 'scraper/images/{keyword}'.
 
